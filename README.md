@@ -30,6 +30,6 @@ Each project has its own folder and its own README file with more detail on:
 - process
 - results
 
-## Contact
+## Contact.
 - LinkedIn: https://www.linkedin.com/in/laperezortiz/
 - GitHub: https://github.com/laperezortiz
