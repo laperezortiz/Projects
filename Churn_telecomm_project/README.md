@@ -6,4 +6,4 @@ To meet Interconnect's requirements, it was necessary to do a full machine learn
 ## Results.
 The selected model achieved an AUC-ROC of 0.8468 and an accuracy of 0.7332 on the test set.
 ## GitHub link.
-https://github.com/laperezortiz/projects/new/main/Churn_telecomm_project
+https://github.com/laperezortiz/projects/tree/main/Churn_telecomm_project
