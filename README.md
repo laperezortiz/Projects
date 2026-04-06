@@ -19,10 +19,10 @@ This repository includes projects involving:
 - NumPy
 - Scikit-learn
 - TensorFlow / Keras
-- Matplotlib
-- Seaborn
 - CatBoost
 - LightGBM
+- Matplotlib
+- Seaborn
 
 ## Repository Structure.
 Each project has its own folder and its own README file with more detail on:
