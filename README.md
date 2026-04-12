@@ -25,4 +25,5 @@ Each project is organized in its own folder and includes the files needed to und
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/laperezortiz/
+- Portfolio: https://shaded-periwinkle-131.notion.site/Portfolio-bbf6063463e4820bae628145cb25ce48
 - GitHub: https://github.com/laperezortiz
